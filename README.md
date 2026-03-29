@@ -1,16 +1,16 @@
-# 💰 Personal Expense Tracker
+# Personal Expense Tracker
 
 A simple, beginner-friendly Java console application to track your daily expenses, view summaries by category, and save/load your data from a CSV file.
 
 ---
 
-## 📌 Problem Statement
+## Problem Statement
 
 Students and young adults often lose track of where their money goes each month. This tool gives you a lightweight, no-internet-required way to log expenses, view totals, and understand your spending habits — all from the terminal.
 
 ---
 
-## ✨ Features
+## Features
 
 | Feature | Description |
 |---|---|
@@ -23,7 +23,7 @@ Students and young adults often lose track of where their money goes each month.
 
 ---
 
-## 🛠️ Prerequisites
+## Prerequisites
 
 - Java JDK 8 or higher installed
 - A terminal / command prompt
@@ -37,7 +37,7 @@ If not installed, download from: https://www.oracle.com/java/technologies/downlo
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Step 1 — Clone the repository
 ```bash
@@ -60,7 +60,7 @@ java ExpenseTracker
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 ExpenseTracker/
@@ -74,7 +74,7 @@ ExpenseTracker/
 
 ---
 
-## 🖥️ Sample Session
+## Sample Session
 
 ```
 ========================================
@@ -106,7 +106,7 @@ Enter choice: 1
 
 ---
 
-## 📚 Java Concepts Demonstrated
+## Java Concepts Demonstrated
 
 - **Classes & Objects** — `Expense` class encapsulates expense data
 - **ArrayList** — dynamic list to store all expenses
@@ -119,11 +119,11 @@ Enter choice: 1
 
 ---
 
-## 👨‍💻 Author
+## Author
 
-**[Your Name]**  
-[Your Roll Number]  
-[Your College / University]  
+**Ashish Kumar Rai**  
+24BAI10666 
+VIT Bhopal University  
 Programming in Java — Evaluated Course Project
 
 ---
